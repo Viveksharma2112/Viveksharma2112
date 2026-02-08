@@ -47,8 +47,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Viveksharma2112&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=Viveksharma2112&theme=dark&hide_border=true" />
 </p>
