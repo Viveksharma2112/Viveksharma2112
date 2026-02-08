@@ -17,13 +17,13 @@
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-sharma-1912a6289/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
 </a>
 <a href="https://github.com/Viveksharma2112" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
 </a>
 <a href="mailto:vs8026704@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
 </a>
 </p>
 
@@ -31,21 +31,21 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" />
+<img src="https://cdn.simpleicons.org/node.js/339933" height="40" />
+<img src="https://cdn.simpleicons.org/express/ffffff" height="40" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
+<img src="https://cdn.simpleicons.org/git/F05032" height="40" />
+<img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Viveksharma2112&show_icons=true&theme=dark" alt="Vivek's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Viveksharma2112&show_icons=true&theme=dark" />
 </p>
